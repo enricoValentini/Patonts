@@ -1,0 +1,61 @@
+[
+  {
+    "telegramID": "1348998547",
+    "nome": "Enrico",
+    "cognome": "Valentini",
+    "username": "admin",
+    "password": "admin",
+    "admin": true,
+    "workspaceId": [
+      "id03xid01",
+      "id02xid01",
+      "id02xid02"
+    ]
+  },
+  {
+    "telegramID": "605549988",
+    "nome": "Dawid",
+    "cognome": "Piesla",
+    "username": "a",
+    "password": "a",
+    "admin": false,
+    "workspaceId": [
+      "id04xid01",
+      "id01xid01"
+    ]
+  },
+  {
+    "nome": "Gio",
+    "cognome": "Sav",
+    "username": "Gio",
+    "password": "gio1",
+    "admin": true,
+    "workspaceId": [
+      "id04xid02"
+    ]
+  },
+  {
+    "telegramID": "1348998547",
+    "nome": "Niccolò",
+    "cognome": "Iannibelli",
+    "username": "nico",
+    "password": "ianni",
+    "admin": false,
+    "workspaceId": [
+      "id03xid01",
+      "id02xid01",
+      "id02xid02"
+    ]
+  },
+  {
+    "nome": "Aldo",
+    "cognome": "Marini",
+    "username": "aldo",
+    "password": "marini",
+    "admin": false,
+    "workspaceId": [
+      "id02xid01",
+      "id02xid02"
+    ]
+  }
+]

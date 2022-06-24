@@ -1,0 +1,166 @@
+[
+  {
+    "ID": "id04",
+    "descrizione": "Allenamenti di calcio2",
+    "attivita": [
+      {
+        "ID": "id01",
+        "descrizione": "Allenamento2",
+        "luogo": [
+          "Campetto A2",
+          "STADIO",
+          "GARDENS"
+        ],
+        "oraInizio": 13,
+        "oraFine": 16,
+        "dataAttivita": [
+          "30/08/2021",
+          "10/05/2021",
+          "20/01/2021"
+        ],
+        "preferenze": [
+          {
+            "userName": "a",
+            "luogoPref": "STADIO",
+            "dataAttivitaPref": "10/05/2021",
+            "descrizione": "Allenamento2",
+            "oraInizio": 13,
+            "oraFine": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "id01",
+    "descrizione": "Basket",
+    "attivita": [
+      {
+        "ID": "id01",
+        "descrizione": "Mini Basket",
+        "luogo": [
+          "Palazzetto",
+          "sanDonnino"
+        ],
+        "oraInizio": 12,
+        "oraFine": 15,
+        "dataAttivita": [
+          "30/08/2021",
+          "10/05/2021",
+          "20/01/2021"
+        ],
+        "preferenze": [
+          {
+            "userName": "a",
+            "luogoPref": "sanDonnino",
+            "dataAttivitaPref": "10/05/2021",
+            "descrizione": "Mini Basket",
+            "oraInizio": 12,
+            "oraFine": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "id03",
+    "descrizione": "Lezioni Info-man",
+    "attivita": [
+      {
+        "ID": "id01",
+        "descrizione": "Sistemi operativi1",
+        "luogo": [
+          "Tonelli",
+          "Online",
+          "Filippo Re"
+        ],
+        "oraInizio": 12,
+        "oraFine": 15,
+        "dataAttivita": [
+          "30/05/2022",
+          "14/06/2022"
+        ],
+        "preferenze": [
+          {
+            "userName": "nico",
+            "luogoPref": "Non selezionato",
+            "dataAttivitaPref": "Non selezionata",
+            "descrizione": "Sistemi operativi",
+            "oraInizio": 12,
+            "oraFine": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "id02",
+    "descrizione": "Lezioni mate",
+    "attivita": [
+      {
+        "ID": "id01",
+        "descrizione": "Statistica numerica",
+        "luogo": [
+          "Online",
+          "Tonelli",
+          "Filippo Re"
+        ],
+        "oraInizio": 12,
+        "oraFine": 15,
+        "dataAttivita": [
+          "08/06/2022",
+          "23/06/2022",
+          "07/06/2022"
+        ],
+        "preferenze": [
+          {
+            "userName": "nico",
+            "luogoPref": "Online",
+            "dataAttivitaPref": "08/06/2022",
+            "descrizione": "Statistica numerica",
+            "oraInizio": 12,
+            "oraFine": 15
+          },
+          {
+            "userName": "aldo",
+            "luogoPref": "non selezionato",
+            "dataAttivitaPref": "non selezionata",
+            "descrizione": "Statistica numerica",
+            "oraInizio": 12,
+            "oraFine": 15
+          }
+        ]
+      },
+      {
+        "ID": "id02",
+        "descrizione": "Analisi III",
+        "luogo": [
+          "Tonelli"
+        ],
+        "oraInizio": 15,
+        "oraFine": 17,
+        "dataAttivita": [
+          "07/06/2022"
+        ],
+        "preferenze": [
+          {
+            "userName": "nico",
+            "luogoPref": "Non selezionato",
+            "dataAttivitaPref": "Non selezionata",
+            "descrizione": "Analisi III",
+            "oraInizio": 15,
+            "oraFine": 17
+          },
+          {
+            "userName": "aldo",
+            "luogoPref": "Non selezionato",
+            "dataAttivitaPref": "Non selezionata",
+            "descrizione": "Analisi III",
+            "oraInizio": 15,
+            "oraFine": 17
+          }
+        ]
+      }
+    ]
+  }
+]
